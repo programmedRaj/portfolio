@@ -298,11 +298,11 @@ h1, h2 {
 }
 @media (max-width: 500px) {
   .skill-nav svg {
-    margin-bottom: -55%;
+    margin-bottom: -45%;
   }
   .skill-nav tspan {
     cursor: pointer;
-    fill: rgb(60, 218, 20);
+    fill: rgb(233, 241, 231);
     pointer-events: auto;
     opacity: 0;
     -webkit-transition: opacity var(--duration) linear;
